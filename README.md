@@ -14,7 +14,7 @@ A working Instagram account
 ##Setup
 Clone this repository:
 ```
-git clone https://github.com/sousatg/InstaBot.git
+git clone https://github.com/sousatg/instabot.git
 ```
 run the following command to install the required libraries:
 ```
